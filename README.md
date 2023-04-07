@@ -1,2 +1,2 @@
-# Lush
+# Mush
 Lua shell
